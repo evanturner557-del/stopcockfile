@@ -1,0 +1,41 @@
+{
+  "unit_id": "LOCAL-BATCH2-STOPCOCKFILE",
+  "name": "Household information binder printable for UK homes",
+  "public_name": "Stopcockfile",
+  "slug": "stopcockfile",
+  "site_dir": "/workspace/sites-new/stopcockfile",
+  "public_domains": [],
+  "user_go": null,
+  "checkout_mode": "none",
+  "checkoutMode": "none",
+  "email": "localreply+stopcockfile@agentmail.to",
+  "stage": "LOCAL_DRAFT",
+  "type": "digital",
+  "status_label": "LOCAL ONLY / coming soon / not for sale",
+  "offer": {
+    "audience": "UK households, tenants and homeowners",
+    "offer": "A printable home information pack: stopcock, fuse box and meters, supplier contacts, appliance details and bin days in one folder.",
+    "pricing": [
+      {
+        "price": "\u00a36 one-off (planned)",
+        "status": "planned/draft"
+      }
+    ],
+    "limits": "A household record, not safety, electrical, gas or legal advice. In an emergency call the relevant emergency service or network; do not attempt work you are not qualified to do."
+  },
+  "trader_name": null,
+  "trader_address": null,
+  "spend_gbp": 0,
+  "publish": {
+    "status": "NOT_PUBLISHED"
+  },
+  "inbox": {
+    "address": "localreply+stopcockfile@agentmail.to",
+    "status": "plus-address; delivery not independently tested"
+  },
+  "name_check": {
+    "date": "2026-11-08",
+    "method": "Exact-name public web search only",
+    "result": "No obvious same-name commercial conflict in returned results; not trademark clearance"
+  }
+}
